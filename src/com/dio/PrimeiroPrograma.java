@@ -9,7 +9,7 @@ public class PrimeiroPrograma {
 		Livros livros = new Livros();
 		
 		System.out.println(gato);
-		System.out.println(livro);
+		
 		
 		/*int a=3, b=2;
 		System.out.println("Hello World!" + (a+b));
